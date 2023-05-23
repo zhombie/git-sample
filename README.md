@@ -63,3 +63,9 @@
 <img width="1920" alt="Screenshot 2023-05-23 at 11 27 07" src="https://github.com/zhombie/git-sample/assets/26120169/2cd0d425-c151-421f-b10e-e8425dcc321d">
 
 # Шаг 9
+
+Выполнить команду ```git push -u origin master``` для заливки локальных коммитов в удаленный репозиторий
+
+<img width="1920" alt="Screenshot 2023-05-23 at 11 29 33" src="https://github.com/zhombie/git-sample/assets/26120169/247e0119-c7b3-4428-8e9c-b4c8ff6f3855">
+
+<img width="1920" alt="Screenshot 2023-05-23 at 11 30 00" src="https://github.com/zhombie/git-sample/assets/26120169/bf22e300-417d-41a4-9bd2-7e0986eec107">
