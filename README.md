@@ -38,3 +38,28 @@
 
 # Шаг 6
 
+Перейти по ссылке https://github.com/
+
+<img width="1920" alt="Screenshot 2023-05-23 at 11 24 00" src="https://github.com/zhombie/git-sample/assets/26120169/a599c029-0ff9-4de4-87da-34f4c2c05f98">
+
+# Шаг 7
+
+Создать удаленный репозиторий на платформе GitHub (есть другие аналоги как GitLab, JetBrains Space, ...)
+
+<img width="1920" alt="Screenshot 2023-05-23 at 11 24 16" src="https://github.com/zhombie/git-sample/assets/26120169/654fe56d-1fd6-4443-919a-4076b36a5af0">
+
+<img width="1920" alt="Screenshot 2023-05-23 at 11 25 15" src="https://github.com/zhombie/git-sample/assets/26120169/d7282fe5-0c26-4dec-9b67-5428da5cf5c3">
+
+<img width="1920" alt="Screenshot 2023-05-23 at 11 25 31" src="https://github.com/zhombie/git-sample/assets/26120169/01ac9684-d48b-44fc-8a10-dab9e085b834">
+
+# Шаг 8
+
+Выполнить команду ```git remote add origin https://github.com/zhombie/git-sample-repository.git``` для добавления ссылки удаленного репозитория
+
+<img width="1920" alt="Screenshot 2023-05-23 at 11 26 51" src="https://github.com/zhombie/git-sample/assets/26120169/bbabe091-0c32-4ce7-b034-9202f00fce91">
+
+Для подтверждения действия можно проверить командой ```git remote -v```
+
+<img width="1920" alt="Screenshot 2023-05-23 at 11 27 07" src="https://github.com/zhombie/git-sample/assets/26120169/2cd0d425-c151-421f-b10e-e8425dcc321d">
+
+# Шаг 9
