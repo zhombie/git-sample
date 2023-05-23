@@ -30,8 +30,11 @@
 
 # Шаг 5
 
-Выполнить команду ```git commit -a -m "first commit"```
+Выполнить команду ```git commit -a -m "first commit"```. Все изменения были сохранены с сообщением "first commit" на локальном устройстве и готовы к заливке на удаленный репозиторий
 
 <img width="1920" alt="Screenshot 2023-05-23 at 11 20 14" src="https://github.com/zhombie/git-sample/assets/26120169/7583e3ef-14f3-4b74-85e6-6942d6b575c1">
 
 <img width="1920" alt="Screenshot 2023-05-23 at 11 20 34" src="https://github.com/zhombie/git-sample/assets/26120169/7688e461-733d-4f3a-9b3b-d04528a5864d">
+
+# Шаг 6
+
